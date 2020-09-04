@@ -1,3 +1,3 @@
 <div>
-  <img src="titan.jpg" height="100px">
+  <img src="titan.jpg" height="300px">
 </a>
