@@ -1,1 +1,3 @@
-<a><img src="titan.jpg"></a>
+<div>
+  <img src="titan.jpg">
+</a>
